@@ -15,8 +15,7 @@ Copy-paste the above code into the URL field of a bookmark in your web browser. 
 Once you see the interface after you click the bookmarklet, toggle your desired options via the interface. Once you are done customizing, press "Launch Hack". This will open a new tab. Wait for this new tab to **completely** load (it will flash white once), then play Blooket as you would.
 
 ## Video tutorial
-<iframe src="https://streamable.com/e/vdg7xf" frameborder="0" allowfullscreen="true"> </iframe>
-
+![video](https://streamable.com/e/vdg7xf)
 # Features
 
 # Injectables
@@ -26,6 +25,9 @@ The easiest way to add your own (or other community members') features and code 
 Some scripts and injectables may come with a Mod Menu that appears in the bottom left corner of the screen. To show or hide the mod menu, do `shift` + `\` on your keyboard. Please open an issue or a pull request if you have an idea of how to bring the show/hide functionality to mobile.
 
 # Built-In Prefs and Scripts
+
+## List of hacks as seen in-game
+![image](https://user-images.githubusercontent.com/75344601/135566970-17c16a66-93ff-44ab-b25e-74cf74b29345.png)
 
 ## Essential Patches
 **DO NOT DISABLE!!** Adds some essential patches to the game's code to allow the script to remain executing. Keep this enabled unless you really, *really* know what you are doing.
