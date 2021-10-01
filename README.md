@@ -1,4 +1,4 @@
-# ThatFruedDued Blooket Hack
+# Bookmarklet Client: Blooket Hack
 
 ## What is this?
 
@@ -14,6 +14,9 @@ Copy-paste the above code into the URL field of a bookmark in your web browser. 
 
 Once you see the interface after you click the bookmarklet, toggle your desired options via the interface. Once you are done customizing, press "Launch Hack". This will open a new tab. Wait for this new tab to **completely** load (it will flash white once), then play Blooket as you would.
 
+## Video tutorial
+<iframe src="https://streamable.com/e/vdg7xf" frameborder="0" allowfullscreen="true"> </iframe>
+
 # Features
 
 # Injectables
@@ -25,16 +28,16 @@ Some scripts and injectables may come with a Mod Menu that appears in the bottom
 # Built-In Prefs and Scripts
 
 ## Essential Patches
-Adds some essential patches to the game's code to allow the script to remain executing. Keep this enabled unless you really, *really* know what you are doing.
+**DO NOT DISABLE!!** Adds some essential patches to the game's code to allow the script to remain executing. Keep this enabled unless you really, *really* know what you are doing.
 
-## Spoof Admin
-Make the Blooket website running on your computer think that you are an administrator of Blooket. **NOTE:** In most cases, this does not grant you any extra features due to server-side checks.
+## ~~Spoof Admin~~
+This hack is basically USELESS because almost all features of this hack are patched by server-side checks. Make the Blooket website running on your computer think that you are an administrator of Blooket.
 
 ## Spoof Plus
-Make the Blooket website running on your computer think that you have a Blooket Plus subscription. **NOTE:** In some cases, this does not grant you any extra features due to server-side checks.
-
+Make the Blooket website running on your computer think that you have a Blooket Plus subscription. **NOTE:** In some cases, this does not grant you any extra features due to server-side checks. Early access game modes (like Fishing Frenzy) are unlocked, but adding folders are not. This hack also makes your profiles display Blooket Spoofed Plus
+  
 ## Unlock All Blooks
-Unlock all the blooks in Blooket when you play a hosted game. **NOTE:** This does not add all blooks to your account, it just makes them available for you to choose in a live game.
+Unlock all the blooks in Blooket when you play a hosted game. This also unlocks a few blooks that cannot be obtained legitly! **NOTE:** This does not add all blooks to your account, it just makes them available for you to choose in a live game.
 
 ## Bypass Random Name
 Use a custom name, even when the host has "Use Random Names" enabled.
@@ -43,16 +46,15 @@ Use a custom name, even when the host has "Use Random Names" enabled.
 Skip the annoying box opening animation when opening boxes.
 
 ## Hide Particles
-Hide the laggy particles in Blooket.
+Hide the laggy particles in Blooket. Not really a hack, just an improvement.
 
 ## Always Three Times Tokens
 Set all the token multiplier options to 3x.
-
+  
+## The following are game mode hacks
+  
 ## Gold Rush
 This category of hacks and cheats affects the Gold Rush game mode on Blooket.
-
-## All Answers Correct
-Make all possible answers correct all the time.
 
 ## Gold Rush / Remove Negatives
 Remove the negative rewards from Gold Rush.
@@ -63,8 +65,8 @@ Double the amount of money earned from the rewards in Gold Rush.
 ## Tower Defense
 This category of hacks and cheats affects the Tower Defense game mode on Blooket.
 
-## Tower Defense / Unlock Mine
-Unlock the currently "Coming Soon" mine stage in Tower Defense.
+## ~~Tower Defense / Unlock Mine~~
+REMOVED because the map is offically in the game.
 
 ## Tower Defense / Everything Is Free
 Set the prices of all items in Tower Defense to zero gold.
@@ -79,13 +81,13 @@ Gain access to all towers at round 0 instead of round 20.
 Place towers anywhere you like (apart from on the path).
 
 ## Tower Defense / Custom Maps
-This category of hacks and cheats adds custom maps to the Tower Defense game mode on Blooket.
+This category of hacks and cheats adds custom maps to the Tower Defense game mode on Blooket. *These maps and not made by me!*
 
 ## Tower Defense / Custom Maps / Islands
-In this map, there are islands made of cheese. Literally. *Made by Piotr*
+In this map, put your towers on islands and watch your enemies glide on water.
 
 ## Tower Defense / Custom Maps / Volatile Volcano
-In this map, avoid the dangerous lava while fighting the enemies. *Made by Cheese*
+In this map, avoid the dangerous lava while fighting the enemies. 
 
 ## Factory
 This category of hacks and cheats affects the Factory game mode on Blooket.
