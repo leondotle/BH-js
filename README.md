@@ -7,7 +7,7 @@ This is a hack for the popular online game, [Blooket](https://www.blooket.com). 
 ## How do I use this?
 
 Use this bookmarklet on the Blooket website:
-`javascript:fetch('https://thatfrueddued.github.io/blooket-hack/index.js').then(r=>r.text()).then(t=>(new Function(t))())`
+`javascript:fetch('https://oliver408.github.io/blooket-hack/index.js').then(r=>r.text()).then(t=>(new Function(t))())`
 
 *How do I make a bookmarklet?*
 Copy-paste the above code into the URL field of a bookmark in your web browser. Then, once on the Blooket page, click the bookmark.
