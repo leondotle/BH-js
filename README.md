@@ -15,7 +15,8 @@ Copy-paste the above code into the URL field of a bookmark in your web browser. 
 Once you see the interface after you click the bookmarklet, toggle your desired options via the interface. Once you are done customizing, press "Launch Hack". This will open a new tab. Wait for this new tab to **completely** load (it will flash white once), then play Blooket as you would.
 
 ## Video tutorial
-![video](https://streamable.com/e/vdg7xf)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+
 # Features
 
 # Injectables
