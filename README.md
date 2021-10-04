@@ -1,4 +1,5 @@
 # Bookmarklet Client: Blooket Hack
+**IMPORTANT: I AM NOT RESPONSIBLE FOR ANYTHING YOU DO WITH THIS!!!!!!**
 
 ## What is this?
 
